@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there. Nice meeting you. 👋
 
 <!--
 **arundadhwal/arundadhwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+# I am Arun.
+## UX Designer & Mentor
+
+Catch me at: 
+* [@arunkrdadhwal](https://twitter.com/arunkrdadhwal/)
+* [arundadhwal](https://www.linkedin.com/in/arundadhwal/)
 
 Here are some ideas to get you started:
 
