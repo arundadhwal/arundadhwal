@@ -6,6 +6,12 @@
 # I am Arun.
 ## UX Designer & Mentor
 
+## Tools of trade
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48"/>                    
+</p>
+
 Catch me at: 
 * [@arunkrdadhwal](https://twitter.com/arunkrdadhwal/)
 * [arundadhwal](https://www.linkedin.com/in/arundadhwal/)
